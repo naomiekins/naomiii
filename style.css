@@ -1,0 +1,21 @@
+
+.centa {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.txt {
+    padding: 3rem;
+}
+
+.event-det{
+    padding: 3rem;
+}
+
+.event-dean{
+    padding-bottom: 3rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
